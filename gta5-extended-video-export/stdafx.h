@@ -5,9 +5,9 @@
 
 #include <sstream>
 
-#include "inc\main.h"
-#include "inc\nativeCaller.h"
-#include "inc\natives.h"
+#include "../include/inc\main.h"
+#include "../include/inc\nativeCaller.h"
+#include "../include/inc\natives.h"
 
 #include <mfapi.h>
 #include <mfidl.h>

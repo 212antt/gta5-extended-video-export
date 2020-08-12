@@ -6,7 +6,7 @@
 #include <exception>
 #include <sstream>
 extern "C" {
-	#include <libavutil\error.h>
+	#include <../include/libavutil/error.h>
 }
 
 #define __FILENAME__ (strrchr(__FILE__, '\\') ? strrchr(__FILE__, '\\') + 1 : __FILE__)
